@@ -1,2 +1,1 @@
-# Medico-local
-Medico-Local is a privacy-preserving Clinical Decision Support System (CDSS) that enables secure querying of medical records using fully local LLM inference.
+Medico-Local is a privacy-first Clinical Decision Support System (CDSS) designed for secure medical information retrieval. By utilizing fully local LLM inference, it allows healthcare professionals to query patient records and medical documents without compromising data privacy. The system processes uploaded PDFs and natural language prompts entirely on the user's own hardware, ensuring that sensitive medical data never leaves the local environment. This approach combines the power of advanced language models with the critical requirement of data sovereignty in healthcare.
